@@ -1,0 +1,23 @@
+<?directive version="0.0"?>
+
+<!-- One line Comment -->
+<!-- Starting Comment
+Comment line.
+Comment line.
+Endind comment -->
+
+<root mmm="hithere">
+    <normaltag>        
+    </normaltag>
+    <onelinetag></onelinetag>
+    <contenttag>content</contenttag>
+    <stack1>
+        <child1>
+        </child1>
+        <stack2>
+            <stack3 nnn="onceagain" zzz="twoagain" kkk="threeagain">
+               <selfclosing /> 
+            </stack3>
+        </stack2>
+    </stack1>
+</root>
